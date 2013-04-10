@@ -47,7 +47,7 @@ class ClassGenerator
 
 	public function DrawClassHeader($class_name)
 	{
-		if(empty($class_name)) throw new Exception("Empty class name");
+		if(empty($class_name)) $class_name = "NoName";
 
 		$string =	"" .
 					"class {$class_name} extends DBObject<br>".
