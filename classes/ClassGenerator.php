@@ -2,14 +2,14 @@
 
 /* ---
 
-	ClassGenerator, a simple getters and & setters generator based on DB structure.
+	ClassGenerator, a simple getters & setters generator based on DB structure.
 	Version 0.1.0, 09 April 2013
 
 	Copyright (c) 2013 Milos Vnucko
 
 	Permission is granted to anyone to use this software for any purpose,
 	including commercial applications, and to alter it and redistribute it
-	freely, subject to the following restrictions:
+	freely.
 
 --- */
 
